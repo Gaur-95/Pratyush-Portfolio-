@@ -17,7 +17,7 @@ It showcases my **projects, experience, certifications, and achievements** with 
 ## 🛠️ Tech Stack
 **Frontend:** React, HTML, CSS  
 **Backend:** Spring Boot, Java  
-**Database:** (Add if you used any — e.g. MySQL / PostgreSQL)  
+**Database:** MySQL  
 **Version Control:** Git & GitHub
 
 ---
@@ -26,7 +26,7 @@ It showcases my **projects, experience, certifications, and achievements** with 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Portfolio.git
+git clone https://github.com/Gaur-95/Portfolio.git
 
 # Navigate to the frontend directory and install dependencies
 cd frontend
