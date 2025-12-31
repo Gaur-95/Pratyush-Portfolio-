@@ -26,7 +26,7 @@ It showcases my **projects, experience, certifications, and achievements** with 
 
 ```bash
 # Clone the repository
-git clone https://github.com/Gaur-95/Pratyush-Portfolio-
+git clone https://github.com/Gaur-95/Pratyush-Portfolio-.git
 
 # Navigate to the frontend directory and install dependencies
 cd frontend
